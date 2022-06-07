@@ -1,0 +1,15 @@
+{
+  "getFunctionName": "HelloWorldJavaGB",
+  "getLogStreamName": "2021/11/26/[$LATEST]37c7e830a21c4055ad55d7413ab93e63",
+  "getInvokedFunctionArn": "arn:aws:lambda:eu-west-2:750936362111:function:HelloWorldJavaGB",
+  "getIdentity": {
+    "identityId": "",
+    "identityPoolId": ""
+  },
+  "getRemainingTimeInMillis": "2998",
+  "getLogGroupName": "/aws/lambda/HelloWorldJavaGB",
+  "getFunctionVersion": "$LATEST",
+  "getMemoryLimitInMB": "512",
+  "getClientContext": null,
+  "getAwsRequestId": "d83c11c8-df63-4a1f-a46c-1c5d14a8f884"
+}
